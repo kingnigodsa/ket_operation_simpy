@@ -24,5 +24,6 @@ Install dependencies with:
 
 ```bash
 pip install sympy
+```
 
 > Part of this project was created with the assistance of ChatGPT.
