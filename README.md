@@ -54,11 +54,9 @@ pip install sympy
 
 Everything is in the main notebook:
 
-> ✅ `Ket_operations.ipynb` — contains all symbolic definitions and demos (teleportation, fidelity distillation, Schmidt decomposition, etc.)
+> `Ket_operations.ipynb` — contains all symbolic definitions and demos (quantum teleportation, Deutsch algorithm, BBPSSW protocol, etc.)
 
-You can open and run it locally or in Colab.
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kingnigodsa/ket_operation_simpy/blob/main/Ket_operations.ipynb)
+You can open and run it locally or in Colab. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kingnigodsa/ket_operation_simpy/blob/main/Ket_operations.ipynb)
 
 ---
 
