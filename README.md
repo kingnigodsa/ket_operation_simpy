@@ -58,7 +58,7 @@ Everything is in the main notebook:
 
 You can open and run it locally or in Colab.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/your-username/ket_operation_simpy/blob/main/Ket_operations.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kingnigodsa/ket_operation_simpy/blob/main/Ket_operations.ipynb)
 
 ---
 
